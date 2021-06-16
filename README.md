@@ -1,0 +1,2 @@
+# DisableTaskMgr
+Disable TaskMgr
